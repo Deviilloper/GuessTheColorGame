@@ -1,0 +1,15 @@
+*{
+    border: 1px solid black;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.color-code{
+    margin: 20px;
+}
+.score-container{
+    margin: 20px;
+}
+.options-container{
+    margin: 20px;
+}
